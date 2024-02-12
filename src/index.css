@@ -27,5 +27,40 @@ marquee{
 .p-style{
   text-align: justify;
 }
-
+.about-img1{
+  margin-top:2rem;
+  width:550px;
+  height: 350px;
+}
+.p1-style{
+  margin-top:2rem;
+  text-align: justify;
+}
+h3{
+  color: orange;
+}
+.about-img2{
+  margin-top:2rem;
+  margin-left:2rem;
+  width:550px;
+  height: 350px;
+}
+.p2-style{
+  margin-top:2rem;
+  text-align: justify;
+}
+.about-img3{
+  margin-top:2rem;
+  margin-left:1rem;
+  width:550;
+  height: 350px;
+}
+.p3-style{
+  margin-top:2rem;
+  text-align: justify;
+}
+.p4-style{
+  margin-top:1rem;
+  text-align: justify;
+}
 
